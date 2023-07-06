@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://p1.pxfuel.com/preview/78/716/896/shoe-prints-sand-hiking-yellow-dust-reprint.jpg);
+    font-family: fantasy;
+    color: rgb(246, 250, 246);
+    text-shadow: 5px 5px black;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+  }
+
+h2 {
+    font-size: 40px;
+  }
+
+p, ul {
+    font-size: 30px;
+  }
+
+p {
+    text-align: justify;
+  }
+
+ul {
+    color: rgb(252, 231, 112);
+  }
